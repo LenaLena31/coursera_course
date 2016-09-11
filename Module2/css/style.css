@@ -38,7 +38,8 @@ h2 {
     border: 1px solid black;
     margin-bottom: 20px;
     margin-right: 25px;
-    min-height: 300px;
+    min-height: 350px;
+
     /*min-width: 250px;*/
     background-color: #FFFFDD;
     overflow: hidden;
